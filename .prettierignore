@@ -3,3 +3,8 @@ docs
 .nyc_output
 coverage
 src/typechain
+lib
+docs
+.nyc_output
+coverage
+src/typechain
